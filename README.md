@@ -1,34 +1,20 @@
-Ecommerce_Analysis-Power-BI
+**Ecommerce_Analysis-Power-BI**
 
-🔍 Project Overview
+**🔍 Project Overview**
 
 This project is a deep-dive data analysis of over 50,000 transactions from the Brazilian E-Commerce Public Dataset by Olist. The objective was to move beyond basic reporting to identify specific revenue drivers and logistical inefficiencies that impact the bottom line.
 
-📈 Key Analytical Insights
+**📈 Key Analytical Insights**
 
-Revenue Concentration: Identified that the top 10 product categories drive 60% of the total revenue.
+Revenue Concentration : Identified that the top 10 product categories drive 60% of the total revenue.
 
-Scale of Operations: Analyzed a total revenue volume of $13.59M.
+Scale of Operations : Analyzed a total revenue volume of $13.59M.
 
-Profitability Flagging: Developed a Freight Ratio metric to systematically flag unprofitable SKUs where shipping costs outweighed the product value.
+Profitability Flagging : Developed a Freight Ratio metric to systematically flag unprofitable SKUs where shipping costs outweighed the product value.
 
-Data Refinement: Performed extensive data cleaning, including renaming columns and titles for professional clarity and enabling a light-mode interface for better readability.
+Data Refinement : Performed extensive data cleaning, including renaming columns and titles for professional clarity and enabling a light-mode interface for better readability.
 
-🛠️ Technical Highlights
-
-Data Source: Brazilian E-Commerce Public Dataset by Olist (Kaggle).
-
-Tool: Power BI.
-
-Key Files:
-
-Ecommerce_Analysis.pbix: The full analysis and data model.
-
-DataSet/: The raw transaction data used for the study.
-
-Visualizations/: Exported analysis views showing Revenue Distribution and Freight Ratio logic.
-
-### 📂 Visualization
+**📂 Visualization**
 
 
 **1. Revenue Distribution by Product Category**
@@ -39,3 +25,29 @@ Visualizations/: Exported analysis views showing Revenue Distribution and Freigh
 
 **3. Freight Ratio by Product ID**
 ![Freight Ratio](Visualizations/Total%20Revenue%20and%20Freight%20Ratio%20by%20product_ID.png)
+
+
+
+**💡 Business Impact**
+
+• Helps prioritize top-performing categories
+
+• Identifies loss-making SKUs due to freight imbalance
+
+• Supports pricing and logistics optimization decisions
+
+**🛠️ Technical Highlights**
+
+Data Source : Brazilian E-Commerce Public Dataset by Olist (Kaggle).
+
+Tool : Power BI.
+
+Key Files :
+
+**Ecommerce_Analysis.pbix : The full analysis and data model.**
+
+DataSet/ : The raw transaction data used for the study.
+
+Visualizations/: Exported analysis views showing Revenue Distribution and Freight Ratio logic.
+
+
