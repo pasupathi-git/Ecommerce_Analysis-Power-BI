@@ -1,5 +1,7 @@
 Ecommerce-Analysis-Power-BI
+
 🔍 Project Overview
+
 This project is a deep-dive data analysis of over 50,000 transactions from the Brazilian E-Commerce Public Dataset by Olist. The objective was to move beyond basic reporting to identify specific revenue drivers and logistical inefficiencies that impact the bottom line.
 
 📈 Key Analytical Insights
