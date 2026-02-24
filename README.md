@@ -28,7 +28,7 @@ DataSet/: The raw transaction data used for the study.
 
 Visualizations/: Exported analysis views showing Revenue Distribution and Freight Ratio logic.
 
-### 📂 Analysis Visuals
+### 📂 Visualization
 
 
 **1. Revenue Distribution by Product Category**
@@ -38,4 +38,4 @@ Visualizations/: Exported analysis views showing Revenue Distribution and Freigh
 ![Freight Cost](Visualizations/Freight%20Cost%20vs.%20Total%20Revenue.png)
 
 **3. Freight Ratio by Product ID**
-![Freight Ratio](Visualizations/Total Revenue and Freight Ratio by product_ID.png.png)
+![Freight Ratio](Visualizations/Total%20Revenue%20and%20Freight%20Ratio%20by%20product_ID.png)
