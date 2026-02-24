@@ -1,4 +1,4 @@
-Ecommerce-Analysis-Power-BI
+Ecommerce_Analysis-Power-BI
 
 🔍 Project Overview
 
@@ -15,6 +15,9 @@ Data Refinement: Performed extensive data cleaning, including renaming columns a
 
 Data Source: Brazilian E-Commerce Public Dataset by Olist (Kaggle).
 Tool: Power BI.
-Key Files: Ecommerce_Analysis.pbix: The full analysis and data model.
+
+Key Files:
+
+Ecommerce_Analysis.pbix: The full analysis and data model.
 DataSet/: The raw transaction data used for the study.
-Screenshots/: Visual evidence of the Revenue Distribution and Freight Ratio analysis.
+Visualizations/: Exported analysis views showing Revenue Distribution and Freight Ratio logic.
