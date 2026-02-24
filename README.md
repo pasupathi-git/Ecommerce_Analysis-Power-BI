@@ -27,3 +27,15 @@ Ecommerce_Analysis.pbix: The full analysis and data model.
 DataSet/: The raw transaction data used for the study.
 
 Visualizations/: Exported analysis views showing Revenue Distribution and Freight Ratio logic.
+
+### 📂 Analysis Visuals
+
+
+**1. Revenue Distribution by Product Category**
+![Revenue Distribution](Visualizations/Revenue%20Distribution%20by%20Product%20Category.png)
+
+**2. Freight Cost vs. Total Revenue**
+![Freight Cost](Visualizations/Freight%20Cost%20vs.%20Total%20Revenue.png)
+
+**3. Freight Ratio by Product ID**
+![Freight Ratio](Visualizations/Total%20Revenue%20and%20Freight%20Ratio%20by%20product_ID.png)
