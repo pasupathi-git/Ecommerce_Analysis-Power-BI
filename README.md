@@ -18,14 +18,14 @@ This project presents an in-depth analysis of 50,000+ transactions from the Braz
 
 ---
 
-### 🧮 Key DAX Formulas
-To drive these insights, I engineered custom measures using DAX best practices:
+## 💡 Business Impact
 
-* **Total Revenue:** `Total Revenue = SUM(Order_Items[price])`
-* **Freight Ratio (Profitability Metric):** `Freight Ratio = DIVIDE(SUM(Order_Items[freight_value]), [Total Revenue])`
-* **Top 10 Category Revenue:** Used `TOPN` logic to identify that 10 categories drive 60% of the $13.59M total.
+• Enables strategic prioritization of high-performing product categories  
+• Identifies unprofitable SKUs due to logistics cost imbalance  
+• Supports data-driven pricing and freight optimization decisions  
+• Improves operational visibility into revenue and cost structure  
 
-  ---
+---
 
 ## 📂 Visualizations
 
@@ -40,12 +40,12 @@ To drive these insights, I engineered custom measures using DAX best practices:
 
 ---
 
-## 💡 Business Impact
+### 🧮 Key DAX Formulas
+To drive these insights, I engineered custom measures using DAX best practices:
 
-• Enables strategic prioritization of high-performing product categories  
-• Identifies unprofitable SKUs due to logistics cost imbalance  
-• Supports data-driven pricing and freight optimization decisions  
-• Improves operational visibility into revenue and cost structure  
+* **Total Revenue:** `Total Revenue = SUM(Order_Items[price])`
+* **Freight Ratio (Profitability Metric):** `Freight Ratio = DIVIDE(SUM(Order_Items[freight_value]), [Total Revenue])`
+* **Top 10 Category Revenue:** Used `TOPN` logic to identify that 10 categories drive 60% of the $13.59M total.
 
 ---
 
