@@ -18,6 +18,15 @@ This project presents an in-depth analysis of 50,000+ transactions from the Braz
 
 ---
 
+### 🧮 Key DAX Formulas
+To drive these insights, I engineered custom measures using DAX best practices:
+
+* **Total Revenue:** `Total Revenue = SUM(Order_Items[price])`
+* **Freight Ratio (Profitability Metric):** `Freight Ratio = DIVIDE(SUM(Order_Items[freight_value]), [Total Revenue])`
+* **Top 10 Category Revenue:** Used `TOPN` logic to identify that 10 categories drive 60% of the $13.59M total.
+
+  ---
+
 ## 📂 Visualizations
 
 ### 1. Revenue Distribution by Product Category
